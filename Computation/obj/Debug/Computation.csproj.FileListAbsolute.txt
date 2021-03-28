@@ -1,0 +1,7 @@
+C:\Users\gtcho\Desktop\Projet\Computation\Computation\obj\Debug\Computation.csprojAssemblyReference.cache
+C:\Users\gtcho\Desktop\Projet\Computation\Computation\obj\Debug\Computation.csproj.CoreCompileInputs.cache
+C:\Users\gtcho\Desktop\Projet\Computation\Computation\bin\Debug\Computation.exe.config
+C:\Users\gtcho\Desktop\Projet\Computation\Computation\bin\Debug\Computation.exe
+C:\Users\gtcho\Desktop\Projet\Computation\Computation\bin\Debug\Computation.pdb
+C:\Users\gtcho\Desktop\Projet\Computation\Computation\obj\Debug\Computation.exe
+C:\Users\gtcho\Desktop\Projet\Computation\Computation\obj\Debug\Computation.pdb
